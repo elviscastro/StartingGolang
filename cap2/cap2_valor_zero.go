@@ -4,10 +4,10 @@ import (
 	"fmt"
 )
 
-var x int = 0
-var y float64 = 0
-var z bool = false
-var s string = ""
+var x int
+var y float64
+var z bool
+var s string
 
 func main() {
 
